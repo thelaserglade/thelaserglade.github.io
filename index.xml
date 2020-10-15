@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Laser Glade</title>
-    <link>https://thelaserglade.com/</link>
+    <link>http://thelaserglade.com/</link>
     <description>Recent content on The Laser Glade</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>steven@thelaserglade.com (Steven McAdams)</managingEditor>
     <webMaster>steven@thelaserglade.com (Steven McAdams)</webMaster>
-    <lastBuildDate>Wed, 14 Oct 2020 22:54:55 -0500</lastBuildDate><atom:link href="https://thelaserglade.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Oct 2020 22:54:55 -0500</lastBuildDate><atom:link href="http://thelaserglade.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
