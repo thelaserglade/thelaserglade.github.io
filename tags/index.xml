@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on The Laser Glade</title>
+    <link>https://thelaserglade.com/tags/</link>
+    <description>Recent content in Tags on The Laser Glade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>steven@thelaserglade.com (Steven McAdams)</managingEditor>
+    <webMaster>steven@thelaserglade.com (Steven McAdams)</webMaster><atom:link href="https://thelaserglade.com/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
